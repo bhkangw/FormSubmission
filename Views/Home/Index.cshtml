@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Submission</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container"><br>
+<div class="jumbotron">
+    <h1>Enter your information</h1>
+    <form action="/process" method="POST">
+        <p>First Name <input class="form-control" type="text" name="fname"></p>
+        <p>Last Name <input class="form-control" type="text" name="lname"></p>
+        <p>Age <input class="form-control" type="text" name="age"></p>
+        <p>Email Address <input class="form-control" type="email" name="email"></p>
+        <p>Password <input class="form-control" type="password" name="password"></p>
+        <input type="submit" value="Submit" class="btn btn-primary">
+    </form>
+</div>
+</div>
+</body>
+</html>

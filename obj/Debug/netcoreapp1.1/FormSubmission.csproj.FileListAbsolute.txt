@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/FormSubmission/bin/Debug/netcoreapp1.1/FormSubmission.deps.json
+/Users/bkila/Desktop/FormSubmission/bin/Debug/netcoreapp1.1/FormSubmission.runtimeconfig.json
+/Users/bkila/Desktop/FormSubmission/bin/Debug/netcoreapp1.1/FormSubmission.runtimeconfig.dev.json
+/Users/bkila/Desktop/FormSubmission/bin/Debug/netcoreapp1.1/FormSubmission.dll
+/Users/bkila/Desktop/FormSubmission/bin/Debug/netcoreapp1.1/FormSubmission.pdb
+/Users/bkila/Desktop/FormSubmission/obj/Debug/netcoreapp1.1/FormSubmission.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/FormSubmission/obj/Debug/netcoreapp1.1/FormSubmission.AssemblyInfo.cs
+/Users/bkila/Desktop/FormSubmission/obj/Debug/netcoreapp1.1/FormSubmission.dll
+/Users/bkila/Desktop/FormSubmission/obj/Debug/netcoreapp1.1/FormSubmission.pdb
